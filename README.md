@@ -13,7 +13,11 @@ As we can see, a variety of different candidates with different backgrounds were
 ### Introducing the Data and Visualizations
 Voting data was complied from all 50 wards, recorded to one of the 2069 precincts in the city of Chicago. Supplemented with demographic data provided by the census for each ward, we hope to visualize and understand how the most recent election and those run in 2015 might provide insight into the upcoming runoff on the 2nd of April.
 
-Evaluating by precinct, we can identify a winner for each. We can also identify, assuming territory is maintained, battleground for the two remaining candidates.
+Below are the counts by ward for the top six candidates:
+
+![top_six_cand_ward](https://user-images.githubusercontent.com/40553610/54720637-49346b00-4b36-11e9-92c5-c475137d17a2.jpeg)
+
+Narrowing our scope, we can begin evaluating by precinct to identify a winner for each. This provides a more detailed look at voter participation and highlights smaller sections activated by one of the many candidates. We can also identify, assuming territory is maintained, battleground for the two remaining candidates.
 ![winner_by_prec](https://user-images.githubusercontent.com/40553610/54719537-8d723c00-4b33-11e9-9f05-14a2db680ee4.jpeg)
 
 Lightfoot was very successful motivating the Northside of Chicago, an area with generally high voter participation, to pull for her. However, this leaves a lot on the board elsewhere and, even with competition from a wide field, Preckwinkle was successful at pulling from districts around the city.
