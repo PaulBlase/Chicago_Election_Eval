@@ -13,10 +13,21 @@ As we can see, a variety of different candidates with different backgrounds were
 ### Introducing the Data and Visualizations
 Voting data was complied from all 50 wards, recorded to one of the 2069 precincts in the city of Chicago. Supplemented with demographic data provided by the census for each ward, we hope to visualize and understand how the most recent election and those run in 2015 might provide insight into the upcoming runoff on the 2nd of April.
 
+In talking about Chicago, context on a demographic perspective is vital to prescribing the correct response. An extremely segregated city, this aspect plays significantly into almost every aspect of political, social, and cultural life. Below we can see these separations within the city by percentage of ward population. 
+
+![Demographics](https://user-images.githubusercontent.com/40553610/54726196-58bcaf80-4b48-11e9-80b1-4d0b88b7cd5f.jpeg)
+
+For turnout by election, we do notice a trend between the two initial elections. This suggests that these trends could continue into the 2019 runoff.
+
+![Turnout](https://user-images.githubusercontent.com/40553610/54724803-12b11d00-4b43-11e9-99c7-84e363e78733.jpeg)
+
+Whether turnout increases because of an increase in finances, an easier decision, or possibly the weather, results from 2015 would suggest that turnout for the runoff will be significantly higher than that in February.
+
 Below are the counts by ward for the top six candidates:
 
 ![top_six_cand_ward](https://user-images.githubusercontent.com/40553610/54720637-49346b00-4b36-11e9-92c5-c475137d17a2.jpeg)
 
+### Visualizing Runoff 
 Narrowing our scope, we can begin evaluating by precinct to identify a winner for each. This provides a more detailed look at voter participation and highlights smaller sections activated by one of the many candidates. We can also identify, assuming territory is maintained, battleground for the two remaining candidates.
 ![winner_by_prec](https://user-images.githubusercontent.com/40553610/54719537-8d723c00-4b33-11e9-9f05-14a2db680ee4.jpeg)
 
