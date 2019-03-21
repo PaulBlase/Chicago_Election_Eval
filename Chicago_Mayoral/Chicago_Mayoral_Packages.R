@@ -1,0 +1,12 @@
+#DATA MANIPULATION
+#Packages
+library("rgdal")
+library("tmap")
+library("readxl")
+library("dplyr")
+library("RColorBrewer")
+library('reshape2')
+library("data.table")
+library("stringr")
+library("grid")
+library("gridExtra")
