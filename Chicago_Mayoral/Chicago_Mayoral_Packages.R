@@ -1,4 +1,3 @@
-#DATA MANIPULATION
 #Packages
 library("rgdal")
 library("tmap")
